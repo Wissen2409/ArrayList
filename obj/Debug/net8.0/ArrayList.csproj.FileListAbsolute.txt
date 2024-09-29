@@ -12,3 +12,4 @@
 /Users/emrahelis/ArrayList/obj/Debug/net8.0/ArrayList.pdb
 /Users/emrahelis/ArrayList/obj/Debug/net8.0/ArrayList.genruntimeconfig.cache
 /Users/emrahelis/ArrayList/obj/Debug/net8.0/ref/ArrayList.dll
+/Users/emrahelis/ArrayList/obj/Debug/net8.0/ArrayList.sourcelink.json

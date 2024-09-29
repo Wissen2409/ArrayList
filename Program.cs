@@ -92,10 +92,10 @@ for(int i=0;i<kullanicidanGelen.Count;i++){
 
     for(int j=0;j<random.Count;j++){
         // burada iki koleksiyonu birbiri ile karşılaştıralım
-       if(kullanicidanGelen[i]==random[j]){
+       if(Convert.ToInt32(kullanicidanGelen[i])==Convert.ToInt32(random[j])){
 
             // sayı bilinmiş demektir.
-            bilinenSayilar.Add(kullanicidanGelen[i]);
+            bilinenSayilar.Add(kullanicidanGelen[i]); 
 
        }
 
