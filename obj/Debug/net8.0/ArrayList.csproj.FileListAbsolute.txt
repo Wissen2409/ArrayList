@@ -1,0 +1,14 @@
+/Users/emrahelis/ArrayList/bin/Debug/net8.0/ArrayList
+/Users/emrahelis/ArrayList/bin/Debug/net8.0/ArrayList.deps.json
+/Users/emrahelis/ArrayList/bin/Debug/net8.0/ArrayList.runtimeconfig.json
+/Users/emrahelis/ArrayList/bin/Debug/net8.0/ArrayList.dll
+/Users/emrahelis/ArrayList/bin/Debug/net8.0/ArrayList.pdb
+/Users/emrahelis/ArrayList/obj/Debug/net8.0/ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/ArrayList/obj/Debug/net8.0/ArrayList.AssemblyInfoInputs.cache
+/Users/emrahelis/ArrayList/obj/Debug/net8.0/ArrayList.AssemblyInfo.cs
+/Users/emrahelis/ArrayList/obj/Debug/net8.0/ArrayList.csproj.CoreCompileInputs.cache
+/Users/emrahelis/ArrayList/obj/Debug/net8.0/ArrayList.dll
+/Users/emrahelis/ArrayList/obj/Debug/net8.0/refint/ArrayList.dll
+/Users/emrahelis/ArrayList/obj/Debug/net8.0/ArrayList.pdb
+/Users/emrahelis/ArrayList/obj/Debug/net8.0/ArrayList.genruntimeconfig.cache
+/Users/emrahelis/ArrayList/obj/Debug/net8.0/ref/ArrayList.dll
