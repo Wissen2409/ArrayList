@@ -71,7 +71,7 @@ Console.WriteLine("Notlatın toplamı : {0} Ortalamsı : {1}",toplamNot,toplamNo
 
 // Sayısal loto oyununu arraylist ile yapınız
 
-ArrayList kullanicidanGelen = new ArrayList();
+/*ArrayList kullanicidanGelen = new ArrayList();
 ArrayList random=new ArrayList();
 
 ArrayList bilinenSayilar = new ArrayList();
@@ -107,3 +107,40 @@ for(int i=0;i<bilinenSayilar.Count;i++){
 
     Console.Write("{0}-",bilinenSayilar[i]);
 }
+*/
+
+// 1 ay sonraya not : 
+
+
+// Koleksiyonların fonksiyonlarına göz atalım
+
+ArrayList liste  = new ArrayList();
+
+// Koleksiyonun içerisindeki verileri siler
+//liste.Clear()
+
+// Koleksiyon içerisindeki verileri sıralar
+liste.Sort();
+
+// Koleksiyon içerisindeki verileri tersten sıralar
+liste.Reverse();
+
+// Koleksiyonu diziye dönüştürür
+object[] objectArray = liste.ToArray();
+
+// koleksiyon içerisinde arama yapar, verdiğiniz değer koleksiyon içerisinde varsa, true yoksa false döndürür.
+liste.Contains("10");
+
+//Insert fonksiyonu, koleksiyon içerisine bir veriyi eklemek için kullanılır
+// iki tane parametre alır.  ilk parametre hangi index'e eklemek istediğiniz. 
+// ikinci paramtre ise verinin kendisidir.
+liste.GetRange(1,10);
+// GetRange fonksiyonu, koleksiyon içerisinden birden fazla veri getirmek için kullanılır
+// verinin geleceği index ve bu indexden sonra kaç index veri getirilsin parametreleri ile çalışır
+liste.Insert(4, "Insert et");
+
+// Koleksiyonlarda count ve capacity birbirine eşitlemek için kullanılır.
+
+// Örnek : Count : 5 Capacity : 8 ise, TrimToSize yapılınca, count ve capacity birbirine eşit oluyor.
+liste.TrimToSize();
+
